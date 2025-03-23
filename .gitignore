@@ -9,3 +9,6 @@ venv/
 
 # Environment variables
 .env
+
+# Output directory
+output_dir/
