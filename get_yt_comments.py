@@ -117,7 +117,7 @@ def main():
 
     try:
         # Create output directory if it doesn't exist
-        output_dir = "output_dir"
+        output_dir = "output_dir/raw_comments"
         os.makedirs(output_dir, exist_ok=True)
 
         # Read URLs from file
